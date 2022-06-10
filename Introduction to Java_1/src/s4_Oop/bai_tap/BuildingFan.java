@@ -65,7 +65,7 @@ public class BuildingFan {
         System.out.println(fan1.toString());
 
         BuildingFan fan2 = new BuildingFan();
-        fan2.setSpeed(fan1.MEDIUM);
+        fan2.setSpeed(fan2.MEDIUM);
         fan2.setRadius(5);
         fan2.setColor("blue");
         fan2.setOn(false);
