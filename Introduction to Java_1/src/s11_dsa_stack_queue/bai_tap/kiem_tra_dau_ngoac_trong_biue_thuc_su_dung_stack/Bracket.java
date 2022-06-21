@@ -29,6 +29,6 @@ public class Bracket {
 
     public static void main(String[] args) {
 
-        System.out.println(testBracket("()()()()()"));
+    System.out.println(testBracket("()()()()()"));
     }
 }
